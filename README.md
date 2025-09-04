@@ -15,7 +15,7 @@ Here’s the **final updated README.md** with setup instructions included:
 
 ## 📌 Project Overview  
 This is a **Data Engineering & Power BI group project**.  
-The project involves building **predictive and classification models**, performing **comparisons**, and managing the workflow for **reporting and visualization**.  
+The project involves building predictive and classification models, performing comparisons, and managing the workflow for **reporting and visualization**.  
 
 🔗 **Pipeline:** Data Ingestion → Model Building → Model Comparison → Visualization  
 
